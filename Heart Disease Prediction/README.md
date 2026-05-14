@@ -125,7 +125,7 @@ Heart Disease Prediction/
 ---
 
 ## 🚀 13. Installation & Usage
-1.  **Install requirements**:
+1.  **Install dependencies**:
    ```bash
    pip install numpy pandas scikit-learn matplotlib seaborn joblib
    ```
