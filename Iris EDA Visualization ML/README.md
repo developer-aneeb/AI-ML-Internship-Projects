@@ -106,26 +106,19 @@ The notebook includes several professional-grade visualizations:
 
 ## 📂 11. Project Structure
 ```text
-├── Internship/
-│   └── Iris EDA Visualization ML/
-│       ├── Iris_EDA_Visualization_ML.ipynb   # Main Research Notebook
-│       └── README.md                         # Documentation
-├── requirements.txt                          # Dependencies
-└── data/                                     # Local dataset copies
+├── Iris EDA Visualization ML/
+│   ├── Iris_EDA_Visualization_ML.ipynb   # Main Research Notebook
+│   └── README.md                         # Documentation
 ```
 
 ---
 
 ## 🚀 12. Installation & Usage
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/Iris-Species-ML.git
-   ```
-2. **Install dependencies**:
+1. **Install dependencies**:
    ```bash
    pip install pandas numpy seaborn scikit-learn matplotlib
    ```
-3. **Run the Notebook**: Open `Iris_EDA_Visualization_ML.ipynb` in Jupyter or VS Code to see the full execution.
+2. **Run the Notebook**: Open `Iris_EDA_Visualization_ML.ipynb` in Jupyter or VS Code to see the full execution.
 
 ---
 
@@ -140,4 +133,4 @@ The notebook includes several professional-grade visualizations:
 This project successfully bridges the gap between raw biological data and predictive AI. By maintaining a rigorous EDA-first approach, we ensured the model was built on a foundation of data understanding. The result is a highly accurate, lightweight, and professional classification system that stands as a testament to the power of structured ML workflows.
 
 ---
-**Developed during the AI/ML Internship at RxEaseAI.**
+**Developed during the AI/ML Internship at 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧.**
