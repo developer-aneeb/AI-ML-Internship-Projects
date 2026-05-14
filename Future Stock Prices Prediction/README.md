@@ -114,7 +114,6 @@ Future Stock Prices Prediction/
 │── yfinance-stock-prediction.ipynb    # Full ML Pipeline
 │── stock_next_close_model.joblib      # Serialized Model
 │── README.md                          # Documentation
-└── requirements.txt                   # Dependency List
 ```
 
 ---
@@ -143,4 +142,4 @@ Future Stock Prices Prediction/
 This project successfully demonstrates a structured approach to financial time-series forecasting. By combining automated data ingestion with rigorous feature engineering and ensemble modeling, we have built a foundation for quantitative analysis. This workflow highlights the importance of data quality and validation strategy in the volatile world of finance.
 
 ---
-**Developed during the AI/ML Internship at RxEaseAI.**
+**Developed during the AI/ML Internship at 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 .**
