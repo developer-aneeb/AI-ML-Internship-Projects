@@ -125,11 +125,11 @@ Heart Disease Prediction/
 ---
 
 ## 🚀 13. Installation & Usage
-1.  **Install dependencies**:
-    ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn joblib
-    ```
-2.  **Run the Notebook**: Open `heart-disease-prediction.ipynb` in Jupyter or VS Code and run all cells.
+1.  **Install requirements**:
+   ```bash
+   pip install yfinance pandas scikit-learn matplotlib seaborn joblib
+   ```
+2. **Execute**: Open the Jupyter notebook and run all cells to fetch the latest data and train the model.
 
 ---
 
