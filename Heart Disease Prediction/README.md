@@ -129,7 +129,7 @@ Heart Disease Prediction/
     ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn joblib
     ```
-2.  **Execute the analysis**: Open `heart-disease-prediction.ipynb` in Jupyter or VS Code and run all cells.
+2.  **Run the Notebook**: Open `heart-disease-prediction.ipynb` in Jupyter or VS Code and run all cells.
 
 ---
 
