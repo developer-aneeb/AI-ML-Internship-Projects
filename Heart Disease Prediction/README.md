@@ -17,7 +17,7 @@ This project implements a robust **Binary Classification Pipeline** designed to 
 ---
 
 ## 🎯 2. Task Objective
-As part of the **RxEaseAI AI/ML Internship**, the objective was to:
+As part of the **AI/ML Internship at 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧**, the objective was to:
 *   Develop a reproducible ML workflow using Scikit-Learn Pipelines.
 *   Achieve high **Recall** and **ROC-AUC** scores to minimize clinical False Negatives.
 *   Analyze feature importance to provide "Glass-Box" interpretability for medical practitioners.
@@ -119,23 +119,17 @@ Heart Disease Prediction/
 │── heart-disease-prediction.ipynb    # Full End-to-End Pipeline
 │── heart_disease_model.joblib        # Serialized Production Model
 │── README.md                         # Technical Documentation
-│── requirements.txt                  # Dependency Manifest
-└── dataset/
-    └── heart.csv                     # Raw Clinical Data
+
 ```
 
 ---
 
 ## 🚀 13. Installation & Usage
-1.  **Clone the repository:**
+1.  **Install dependencies:**
     ```bash
-    git clone https://github.com/yourusername/Heart-Disease-AI.git
+   pip install pandas numpy scikit-learn matplotlib seaborn joblib
     ```
-2.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Execute the analysis:**
+2.  **Execute the analysis:**
     Open `heart-disease-prediction.ipynb` in Jupyter or VS Code and run all cells.
 
 ---
@@ -152,4 +146,4 @@ Heart Disease Prediction/
 This project successfully demonstrates the transition from raw clinical data to a structured, production-ready diagnostic pipeline. By focusing on **Recall** and **Interpretable Pipelines**, the resulting model offers high utility for cardiovascular risk assessment. The engineering maturity shown in the preprocessing and validation stages ensures that this model generalizes well to unseen clinical environments.
 
 ---
-**Developed with ❤️ by [Your Name] during the AI/ML Internship.**
+**Developed with ❤️ by Aneeb-Ur-Rehman during the AI/ML Internship at 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 .**

@@ -119,15 +119,11 @@ Future Stock Prices Prediction/
 ---
 
 ## 🚀 12. Installation & Usage
-1. **Clone the repo**:
-   ```bash
-   git clone https://github.com/yourusername/Stock-Price-ML.git
-   ```
-2. **Install requirements**:
+1.  **Install requirements**:
    ```bash
    pip install yfinance pandas scikit-learn matplotlib seaborn joblib
    ```
-3. **Execute**: Open the Jupyter notebook and run all cells to fetch the latest data and train the model.
+2. **Execute**: Open the Jupyter notebook and run all cells to fetch the latest data and train the model.
 
 ---
 
