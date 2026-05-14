@@ -127,9 +127,9 @@ Heart Disease Prediction/
 ## 🚀 13. Installation & Usage
 1.  **Install requirements**:
    ```bash
-   pip install yfinance pandas scikit-learn matplotlib seaborn joblib
+   pip install numpy pandas scikit-learn matplotlib seaborn joblib
    ```
-2. **Execute**: Open the Jupyter notebook and run all cells to fetch the latest data and train the model.
+2. **Execute**: Open the Jupyter notebook and run all cells to train the model.
 
 ---
 
