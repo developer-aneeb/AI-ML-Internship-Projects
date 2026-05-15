@@ -117,27 +117,19 @@ In a healthcare-related AI project, "Accuracy" is secondary to **Safety** and **
 project/
 │── health-query-chatbot.ipynb
 │── README.md
-│── requirements.txt
-│── images/
-│── dataset/
 ```
 
 ---
 
 ## 🚀 Installation & Usage
-1. **Clone the Repository**:
+1. **Install Dependencies**:
    ```bash
-   git clone https://github.com/yourusername/MedGuide-AI.git
-   cd MedGuide-AI
+   pip install openai requests regex pandas textwrap os requests 
    ```
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Configure API Key**:
+2. **Configure API Key**:
    - Obtain an API key from [OpenRouter](https://openrouter.ai/).
    - Set it as an environment variable: `OPENROUTER_API_KEY` or add to Kaggle Secrets.
-4. **Run the Notebook**:
+3. **Run the Notebook**:
    - Open `health-query-chatbot.ipynb` in Jupyter or Kaggle.
    - Execute cells to interact with MedGuide.
 
