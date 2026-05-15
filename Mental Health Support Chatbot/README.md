@@ -11,7 +11,7 @@
 ## 📖 Project Overview
 In a world where mental health resources are often scarce or stigmatized, **SerenityAI** serves as an accessible, non-judgmental first point of contact. Unlike generic LLMs, this chatbot is specifically engineered to acknowledge emotional nuance—transitioning from simple "fact-retrieval" to "empathetic listening."2
 
-Developed as an end-to-end NLP engineering project, it covers the complete lifecycle: from **automated dataset standardization** and **Exploratory Data Analysis (EDA)** to **Parameter-Efficient Fine-Tuning** and **Safety-First deployment**.
+Developed as an end-to-end engineering project, it covers the complete lifecycle: from **automated dataset standardization** and **Exploratory Data Analysis (EDA)** to **Parameter-Efficient Fine-Tuning** and **Safety-First deployment**.
 
 ---
 
@@ -30,7 +30,6 @@ The project utilizes the **EmpatheticDialogues** dataset (64k+ rows), which is s
 *   **Key Features**:
     *   `Situation`: The context provided by the user.
     *   `Emotion`: Grounded labels (e.g., *Devastated, Sentimental, Apprehensive*).
-    *   `Dialogue`: Multi-turn exchanges between a "Speaker" and a "Listener".
 *   **Data Engineering**:
     *   Implemented a `normalize_col` utility for column name standardization.
     *   Automated column detection logic (`find_column`) to handle various CSV schemas.
@@ -76,11 +75,10 @@ The project utilizes the **EmpatheticDialogues** dataset (64k+ rows), which is s
 
 ## 📂 Project Structure
 ```text
-SerenityAI/
+Mental Health Support Chatbot
 │── mental-health-support-chatbot.ipynb   # Complete pipeline: EDA -> Training -> Inference
 │── empathetic_chatbot_gptneo125m/        # Model checkpoints and config
 │── README.md                             # Professional documentation
-                           # EDA charts and loss curves
 ```
 
 ---
