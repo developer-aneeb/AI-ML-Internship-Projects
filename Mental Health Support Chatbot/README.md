@@ -9,7 +9,7 @@
 ---
 
 ## 📖 Project Overview
-In a world where mental health resources are often scarce or stigmatized, **SerenityAI** serves as an accessible, non-judgmental first point of contact. Unlike generic LLMs, this chatbot is specifically engineered to acknowledge emotional nuance—transitioning from simple "fact-retrieval" to "empathetic listening."
+In a world where mental health resources are often scarce or stigmatized, **SerenityAI** serves as an accessible, non-judgmental first point of contact. Unlike generic LLMs, this chatbot is specifically engineered to acknowledge emotional nuance—transitioning from simple "fact-retrieval" to "empathetic listening."2
 
 Developed as an end-to-end NLP engineering project, it covers the complete lifecycle: from **automated dataset standardization** and **Exploratory Data Analysis (EDA)** to **Parameter-Efficient Fine-Tuning** and **Safety-First deployment**.
 
