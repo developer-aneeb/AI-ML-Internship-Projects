@@ -43,6 +43,5 @@ Across these projects, a variety of industry-standard tools and frameworks were 
 - **Data Engineering**: Pandas, NumPy, yfinance
 - **Data Visualization**: Matplotlib, Seaborn
 - **Model Serialization**: Joblib
-
 ---
 **Developed with ❤️ by Aneeb-Ur-Rehman during the AI/ML Internship at 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬𝐇𝐮𝐛 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧.**
