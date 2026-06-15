@@ -1,6 +1,6 @@
 # 🚀 AI & Machine Learning Internship Projects
 
-Welcome to the **Internship** portfolio repository! This directory contains a diverse collection of machine learning, deep learning, and artificial intelligence projects developed during the AI/ML Internship at DevelopersHub Corporation. 
+Welcome to the **Internship**  repository! This directory contains a diverse collection of machine learning, deep learning, and artificial intelligence projects developed during the AI/ML Internship at DevelopersHub Corporation. 
 
 These projects showcase a progression from foundational Exploratory Data Analysis (EDA) to advanced, production-ready Natural Language Processing (NLP) and predictive modeling pipelines.
 
