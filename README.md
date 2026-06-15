@@ -33,7 +33,6 @@ Below is an overview of the projects included in this repository. Please explore
 **Objective**: Develop an empathetic conversational agent fine-tuned to provide emotionally resonant support for everyday stress and anxiety.
 - **Methodology**: Fine-tunes a causal language model (`GPT-Neo 125M`) using PyTorch and Hugging Face Transformers on the Facebook EmpatheticDialogues dataset. Incorporates mixed precision (`fp16`) training and strict safety redirection for high-risk inputs.
 - **Highlights**: Deep Learning, LLM Fine-Tuning, Hugging Face Transformers, NLP.
-
 ---
 
 ## 🛠️ Technologies & Frameworks Utilized
