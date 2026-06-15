@@ -10,7 +10,7 @@ Below is an overview of the projects included in this repository. Please explore
 ## 📂 Project Directory
 
 ### 1. 📈 [Future Stock Prices Prediction](./Future%20Stock%20Prices%20Prediction/)
-**Objective**: Develop an automated data retrieval and machine learning system to predict the next day's closing price of stocks (e.g., AAPL).
+**Objective**: Develop an automated data retrieval and machine learning system to predict the next day's closing price of stocks.
 - **Methodology**: Ingests real-time financial time-series data using the `yfinance` API. Applies feature engineering (lagged features) and compares baseline Linear Regression against ensemble Random Forest Regressors to capture market trends.
 - **Highlights**: Time-Series Forecasting, Scikit-Learn, yfinance API, Financial Analytics.
 
